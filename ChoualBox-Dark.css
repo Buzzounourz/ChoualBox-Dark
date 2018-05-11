@@ -136,6 +136,10 @@ a.link.black-70:hover {
     color: var(--electricBlue);
 }
 
+a.link.spf-link.black-70:hover {
+    color: var(--electricBlue);
+}
+
 .fs10 {
     font-size: 10px;
 }
