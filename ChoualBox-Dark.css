@@ -38,7 +38,7 @@ textarea {
 
 h1.titrepage {
     font-size: 14px;
-    background-color: #FFF;
+    background-color: #1E1E1E;
     padding: 5px 10px;
     margin: 0px 0px;
 }
@@ -75,6 +75,10 @@ h1.titrepage {
     color: #C3C3C3;
 }
 
+.bg-white {
+    background-color: #36393E;
+}
+
 .bg-light-gray {
     background-color: #1E1E1E;
 }
@@ -93,10 +97,12 @@ a.addvideo:hover,
 label.mr1:hover {
     border-color: #3388E6;
     color: #3388E6;
+    background-color: #36393E;
 }
 
 input.searchwithremotedatalist {
     background-color: #42454A;
+    color: #9a9a9a;
 }
 
 a.link.black-70:hover {
