@@ -11,6 +11,10 @@ body {
     color: var(--lightGrey);
 }
 
+#boxsuivante {
+    color: var(--electricBlue);
+}
+
 div.bb.cb-border-color.cb-contenu-a.box_itemboucle:hover {
     border: solid 1px;
     border-color: var(--electricBlue);
