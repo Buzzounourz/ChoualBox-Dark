@@ -6,7 +6,7 @@ Version 0.2
 - ajout du survol sur les boutons
 - survol upvode/downvote
 
-<img src="<img src="https://image.noelshack.com/fichiers/2018/19/5/1526050339-headbar.jpg" width="500" height="50" />" width="500" height="50" />
+<img src="https://image.noelshack.com/fichiers/2018/19/5/1526050339-headbar.jpg" width="500" height="50" />
 
 <img src="https://thumbs.gfycat.com/ClosedLittleClownanemonefish-size_restricted.gif" width="500" height="50" />
 <img src="https://thumbs.gfycat.com/AdeptHighlevelArieltoucan-size_restricted.gif" width="500" height="50" />
