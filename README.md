@@ -5,9 +5,9 @@ Version 0.2
 - ajout dus survol sur les bouton
 - survol upvode/downvote
 
-<img src="https://thumbs.gfycat.com/ClosedLittleClownanemonefish-size_restricted.gif" width="400" height="40" />
-<img src="https://thumbs.gfycat.com/AdeptHighlevelArieltoucan-size_restricted.gif" width="400" height="40" />
-<img src="https://thumbs.gfycat.com/WeeUnsteadyFlounder-size_restricted.gif" width="40" height="40" />
+<img src="https://thumbs.gfycat.com/ClosedLittleClownanemonefish-size_restricted.gif" width="500" height="75" />
+<img src="https://thumbs.gfycat.com/AdeptHighlevelArieltoucan-size_restricted.gif" width="500" height="75" />
+<img src="https://thumbs.gfycat.com/WeeUnsteadyFlounder-size_restricted.gif" width="60" height="60" />
 
 Voila le premier essai
 
