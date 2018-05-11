@@ -11,7 +11,7 @@ Version 0.2
 <img src="https://thumbs.gfycat.com/ClosedLittleClownanemonefish-size_restricted.gif" width="500" height="40" />
 <img src="https://thumbs.gfycat.com/AdeptHighlevelArieltoucan-size_restricted.gif" width="500" height="40" />
 
-<img src="https://image.noelshack.com/fichiers/2018/19/5/1526069048-mainpagearticle-hover.jpg" width="500" height="40" />
+<img src="https://image.noelshack.com/fichiers/2018/19/5/1526069048-mainpagearticle-hover.jpg" width="500" height="150" />
 
 <img src="https://thumbs.gfycat.com/WeeUnsteadyFlounder-size_restricted.gif" width="60" height="60" />
 
