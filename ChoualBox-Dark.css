@@ -66,8 +66,8 @@ h1.titrepage {
     border-color: #777;
 }
 
-.b--black-40 {
-    border-color: var(--lightGrey);
+.black-40 {
+    color: var(--lightGrey);
 }
 
 .black-50 {
