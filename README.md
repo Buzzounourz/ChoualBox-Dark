@@ -2,7 +2,7 @@
 
 Version 0.2
 
-- ajout dus survol sur les bouton
+- ajout du survol sur les boutons
 - survol upvode/downvote
 
 <img src="https://thumbs.gfycat.com/ClosedLittleClownanemonefish-size_restricted.gif" width="500" height="50" />
