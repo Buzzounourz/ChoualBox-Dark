@@ -5,7 +5,7 @@ Version 0.2
 - ajout dus survol sur les bouton
 - survol upvode/downvote
 
-![alt text](https://gfycat.com/ClosedLittleClownanemonefish)
+![](https://gfycat.com/ClosedLittleClownanemonefish.gif)
 
 Voila le premier essai
 
