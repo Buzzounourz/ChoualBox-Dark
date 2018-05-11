@@ -114,6 +114,7 @@ h1.titrepage {
 a.spf-link.gray.link {
     color: #b3b3b3;
 }
+
 a.spf-link.link.gray.fs12.b {
     color: grey;
 }
@@ -1433,7 +1434,8 @@ ul.pager {
 
     .box_itemboucle:hover { /*background-color: #f7fbff*/
         border: 1px 1x 1px 1px;
-        border-color: #var(--electricBlue);;
+        border-color: #var(--electricBlue);
+        ;
     }
 
     .box_itemboucle a.fs15:visited, .box_itemboucle a.fs14:visited {
@@ -1445,7 +1447,9 @@ ul.pager {
         width: 100%
     }
 
-    .box_itemboucle img.icone-groupe {
+    img.icone-groupe {
+        border: 1px solid;
+        border-color: var(--gray);
     }
 
     .box_itemboucle:hover img.icone-groupe {
@@ -2588,7 +2592,9 @@ ul.pager {
         width: 100%
     }
 
-    .box_itemboucle img.icone-groupe {
+    img.icone-groupe {
+        border: 1px solid;
+        border-color: var(--gray);
     }
 
     .box_itemboucle:hover img.icone-groupe {
@@ -5038,7 +5044,9 @@ ul.pager {
         width: 100%
     }
 
-    .box_itemboucle img.icone-groupe {
+    .box_itemboucle {
+        border: 1px solid;
+        border-color: var(--lightGrey);
     }
 
     .box_itemboucle:hover img.icone-groupe {
@@ -6181,8 +6189,10 @@ ul.pager {
         width: 100%
     }
 
-    .box_itemboucle img.icone-groupe {
-    }
+img.icone-groupe {
+    border: 1px solid;
+    border-color: var(--gray);
+}
 
     .box_itemboucle:hover img.icone-groupe {
         opacity: 1
@@ -7050,7 +7060,8 @@ ul.pager {
 #suivi_dropdown {
     margin-right: 0px;
     width: 400px;
-    min-height: 200px;var(--gray)
+    min-height: 200px;
+    var(--gray)
 }
 
 #suivi .bullenotification {
@@ -7251,14 +7262,14 @@ ul.pager {
         position: relative;
     }
 
-    .mainmodal-wrapper.opened {
-        width: 800px;
-        margin: 0 auto;
-        left: 0;
-        right: 0;
-        margin: 0 auto;
-        margin-top: 10px;
-    }
+        .mainmodal-wrapper.opened {
+            width: 800px;
+            margin: 0 auto;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            margin-top: 10px;
+        }
 
     .bottommodal-content {
         max-width: 1000px;
@@ -7267,4 +7278,3 @@ ul.pager {
         left: 0;
     }
 }
-
