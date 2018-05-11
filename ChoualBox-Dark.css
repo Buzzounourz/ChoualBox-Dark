@@ -67,7 +67,7 @@ h1.titrepage {
 }
 
 .black-40 {
-    color: var(--lightGrey);
+    color: var(--electricBlue);
 }
 
 .black-50 {
@@ -104,6 +104,13 @@ h1.titrepage {
 
 .bg-near-white {
     background-color: #1E1E1E;
+}
+
+a.spf-link.gray.link {
+    color: #b3b3b3;
+}
+a.spf-link.link.gray.fs12.b {
+    color: grey;
 }
 
 input.submit_com:hover,
